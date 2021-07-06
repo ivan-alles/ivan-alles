@@ -1,6 +1,6 @@
 ### Welcome!
 
-[test link](/resume.md) 
+[test link](/resume.pdf) 
 
 <!--
 **ivan-alles/ivan-alles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

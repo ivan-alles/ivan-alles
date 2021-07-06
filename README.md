@@ -2,6 +2,8 @@
 
 [test link](/resume.pdf) 
 
+[test link](/test.md) 
+
 <!--
 **ivan-alles/ivan-alles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

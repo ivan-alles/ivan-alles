@@ -1,8 +1,9 @@
-### Welcome!
+# Ivan Alles
 
-[test link](/resume.pdf) 
+I'm a software engineer focusing on machine learning, computer robot vision, and robotics with 25+ years of software development experience.
 
-[test link](/test.md) 
+Check out my [full profile](/resume.pdf), my [youtube portfolio](https://www.youtube.com/playlist?list=PLSi4jOc--ipbemiWIzmPiNi6-3pQZgEGv), and my repos.
+
 
 <!--
 **ivan-alles/ivan-alles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

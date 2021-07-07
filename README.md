@@ -2,7 +2,7 @@
 
 I'm a software engineer focusing on machine learning, computer vision, and robotics with 25+ years of software development experience.
 
-Check out my [full profile](/resume.pdf), my [youtube portfolio](https://www.youtube.com/playlist?list=PLSi4jOc--ipbemiWIzmPiNi6-3pQZgEGv), and my repos.
+Check out my [full profile](/ResumeIvanAlles2021), my [youtube portfolio](https://www.youtube.com/playlist?list=PLSi4jOc--ipbemiWIzmPiNi6-3pQZgEGv), and my repos.
 
 
 <!--

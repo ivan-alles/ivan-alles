@@ -2,7 +2,9 @@
 
 I'm a software engineer focusing on machine learning, computer vision, and robotics with 25+ years of software development experience.
 
-Check out my [full profile](https://ivan-alles.github.io/ivan-alles/ResumeIvanAlles.html), my [youtube portfolio](https://www.youtube.com/playlist?list=PLSi4jOc--ipbemiWIzmPiNi6-3pQZgEGv), and my repos.
+Check out my [full profile](https://ivan-alles.github.io/ivan-alles/ResumeIvanAlles.html), my [youtube portfolio](https://www.youtube.com/playlist?list=PLSi4jOc--ipbemiWIzmPiNi6-3pQZgEGv) and my repos.
+
+Contact me on [linkedin](www.linkedin.com/in/ivanalles).
 
 
 <!--

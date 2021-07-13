@@ -4,7 +4,7 @@ I'm a software engineer focusing on machine learning, computer vision, and robot
 
 Check out my [full profile](https://ivan-alles.github.io/ivan-alles/ResumeIvanAlles.html), my [youtube portfolio](https://www.youtube.com/playlist?list=PLSi4jOc--ipbemiWIzmPiNi6-3pQZgEGv) and my repos.
 
-Contact me on [linkedin](www.linkedin.com/in/ivanalles).
+Contact me on [linkedin](https://www.linkedin.com/in/ivanalles).
 
 
 <!--
